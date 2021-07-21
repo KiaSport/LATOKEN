@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+"GBNF7E5MRHJ3JSG2IN2SV4NY5ST3NDCO43TOKVS2KQCQNOW6M6FY76ZZ"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Mishka Token"
-ORG_URL="https://mishkatoken.com/"
-ORG_DESCRIPTION="MISHKA is 100% decentralized and is run by our community of Inu Killers."
-ORG_TWITTER="@MishkaToken"
-ORG_LOGO="https://i.ibb.co/HdCL6hv/mishka.png"
-ORG_OFFICIAL_EMAIL="contact@mishka.com"
+ORG_NAME="LATOKEN"
+ORG_URL="https://latoken.com/"
+ORG_DESCRIPTION="Redefine trading beyond exchange moving to a smart hybrid assets management platform."
+ORG_TWITTER="@latokens"
+ORG_LOGO="https://i.ibb.co/dmM0YDH/latoken-la-logo.png"
+ORG_OFFICIAL_EMAIL="contact@latoken.com"
 
 
 [[CURRENCIES]]
-code="MISHKA"
-issuer="GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+code="LA"
+issuer="GBNF7E5MRHJ3JSG2IN2SV4NY5ST3NDCO43TOKVS2KQCQNOW6M6FY76ZZ"
 anchor_asset="false"
-name="Mishka Token"
-desc="Mishka Token is a (mostly) friendly, community-focused ERC-20 cryptocurrency with a taste for competition. Mishka Token stops harmful automated bot traders from selling or transferring their $MISHKA, forever locking their Ethereum into the ecosystem. We call this technology HoneyBot, pioneered by FTP Anti Bot."
+name="LATOKEN"
+desc="LATOKEN is a rapidly growing crypto exchange focusing on liquidity for new tokens. LATOKEN entered CoinmarketCap’s Top-20 in March 2019 and keeps improving the result."
 conditions=""
-image="https://i.ibb.co/HdCL6hv/mishka.png"
-fixed_number=2000000
-max_number=2000000
+image="https://i.ibb.co/dmM0YDH/latoken-la-logo.png"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#Mishka Token was issued using the open and inclusive Stellar blockchain network.
+#LATOKEN Token was issued using the open and inclusive Stellar blockchain network.
